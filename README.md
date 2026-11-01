@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack + AI Engineer</b> at <b>Zuci Systems</b><br/>
-  I build web apps end to end, from .NET and Node.js backends to React, Angular and Next.js frontends, and I ship LLM-powered features on Azure, AWS and Vercel.
+  I build web apps end to end, from .NET and FastAPI backends to React, Angular and Next.js frontends, and I ship LLM-powered features on Azure, AWS and Vercel.
 </p>
 
 <p align="center">
@@ -36,13 +36,13 @@
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python" alt=".NET, C#, Node.js, Python"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,fastapi,python" alt=".NET, C#, FastAPI, Python"/>
 </p>
 
 **Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,mysql" alt="PostgreSQL, Prisma, Supabase, MongoDB, MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mysql" alt="PostgreSQL, Prisma, Supabase, MySQL"/>
 </p>
 
 **Cloud & DevOps**
